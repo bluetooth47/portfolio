@@ -1,0 +1,27 @@
+
+
+body{
+    background-image: url(https://th.bing.com/th/id/R.35dd06fcd3fd9c616499456296c13bbe?rik=dyatucbxs4xWFg&pid=ImgRaw&r=0);
+    background-position: center;
+}
+
+#main{
+    margin: auto;
+    font-family: sans-serif;
+    background: #95c0ed;
+    border: 10px solid black;
+    max-width: 910px;
+    padding: 20px;
+}
+#img{
+    width: 100%;
+    height: auto;
+
+}
+
+h1{
+    text-align: center;
+}
+#main-sections {
+    margin: 200px 200px;
+}
